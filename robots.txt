@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tarap.dev/sitemap.xml
